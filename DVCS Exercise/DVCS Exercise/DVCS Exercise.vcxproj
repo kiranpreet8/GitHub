@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{64D76094-F4C6-45D8-83EA-0E06ECBCE414}</ProjectGuid>
+    <ProjectGuid>{EEDAED67-1137-44D2-BE36-148EC881C969}</ProjectGuid>
     <RootNamespace>DVCSExercise</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
