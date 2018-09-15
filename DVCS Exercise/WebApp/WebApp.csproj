@@ -415,6 +415,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="samples\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
